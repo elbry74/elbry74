@@ -12,38 +12,20 @@ Hey there! I'm Elbry. 👋
 
 - Languages and Technologies...
 
-HTML / HTML5 
-
-CSS / CSS3 
-
+HTML / HTML5 , 
+CSS / CSS3 ,
 Bootstrap 
-
-Responsive Design / Media Query
-
-Flexbox, Grid
-
-JavaScript / ES6  
-
-typescript 
-
-angular
-
-angular material
-
-Git / GitHub 
+Responsive Design / Media Query,
+Flexbox, Grid,
+JavaScript / ES6 ,
+typescript ,
+angular,
+angular material,
+Git / GitHub ,
 
 Other Skills 
-
-User experience design 
-
-User interface design 
-
-Adobe photoshop
-
-Adobe XD  
-
+User experience design ,
+User interface design ,
+Adobe photoshop,
+Adobe XD ,
 Windows / Office Skills 
-
-- IDE...
-
-Visual Studio Code 
