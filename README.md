@@ -23,7 +23,7 @@
 ### - IDE... 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/elbry74/)
 
-<h3> 💬 Connect with via ... </h3>
+<h3> 💬 Connect ... </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/elbry74/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="abdallahelbry74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
