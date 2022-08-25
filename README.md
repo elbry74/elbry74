@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @elbry74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey there! I'm Elbry. 👋
+🚀 frontend devlover 🚀
+👨🏻‍💻  About Me
+🎓  fresh graduate with a bachelor’s degree in computer science.
+🌱  I'm on track for learning more about Web Development, Angular
+💻  Goals: Learn more technological stacks and improve my overall skills
+- Languages and Technologies...
+HTML5 CSS3 Bootstrap JS TypeScript Angular Git GitHub 
 
-<!---
-elbry74/elbry74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- IDE...
+Visual Studio Code 
