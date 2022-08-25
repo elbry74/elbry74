@@ -29,5 +29,4 @@
 <a href="abdallahelbry74@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 <a href="(https://www.facebook.com/abdo.melbry/)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/elbry74" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/" alt="Twitter"></a>  
- -->
  </p>
