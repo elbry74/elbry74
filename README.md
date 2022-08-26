@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; fresh graduate with a bachelor’s degree in computer science.
 - 🌱 &nbsp;I'm on track for learning more about Web Development, Angular.
-- 💻 &nbsp;Goals: Goals: Learn more technological stacks and improve my overall skills.
+- 💻 &nbsp;Goals: Learn more technological stacks and improve my overall skills.
 
 
 ### - Languages and Technologies...
