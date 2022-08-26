@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! I'm Elbry. 👋</h1>
-<h2 align="center">🚀 frontend devlover 🚀</h2>
+<h2 align="center">🚀 frontend developer 🚀</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; fresh graduate with a bachelor’s degree in computer science.
