@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; fresh graduate with a bachelor’s degree in computer science.
-- 🌱 &nbsp;I'm on track for learning more about Web Development, Angular.
+- 🌱 &nbsp;I'm on track for learning more about Web Development, C# , Angular.
 - 💻 &nbsp;Goals: Learn more technological stacks and improve my overall skills.
 
 
